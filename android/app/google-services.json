@@ -1,0 +1,39 @@
+  {
+  "project_info": {
+    "project_number": "283976194085",
+    "project_id": "economizze-b9b91",
+    "storage_bucket": "economizze-b9b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283976194085:android:e813051cd61e145d0a47cc",
+        "android_client_info": {
+          "package_name": "com.example.economizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283976194085-tocrpbjkatv9h3f3mr9lav4oi8p3og1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOPW5b6mIeHUWQFmxu884gq5ytehzUrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283976194085-tocrpbjkatv9h3f3mr9lav4oi8p3og1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,14 @@
 # economizze
 
-A new Flutter project.
+O economizze é um aplicativo para auxiliar na hora de fazer as compras no supermercado.
 
-## Getting Started
+Existem dois tipos de listas:
 
-This project is a starting point for a Flutter application.
+* <b>Listas simples</b>
 
-A few resources to get you started if this is your first Flutter project:
+  Teste
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* <b>Listas Avançadas</b>
+
+  Teste
